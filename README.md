@@ -14,3 +14,16 @@ sudo pip3 install -r requirements.txt
 ```[python]
 sudo python3 airodump.py <interface>
 ```
+
+## Output
+### AP
+* BSSID
+* PWR
+* Beacons
+* CH
+* ESSID
+
+### Station
+* BSSID
+* Station
+* PWR
